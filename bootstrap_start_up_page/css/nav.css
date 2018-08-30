@@ -1,0 +1,66 @@
+.navbar-default {
+	background-color: rgba(204, 0, 102, 0.85);
+	box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a {
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover {
+	color: #4dd2ff;
+	background-color: white;
+	text-shadow: 1px 1px #000000;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #4dd2ff;
+	background-color: white;
+	text-shadow: 1px 1px #000000;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #4dd2ff;
+}
+
+.navbar-default .navbar-brand:focus {
+	color: #4dd2ff;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	background-color: white;
+	color: #4dd2ff;
+	text-shadow: 1px 1px #000000;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+	color: #4dd2ff;
+	background-color: white;
+}
+
+.navbar-default .navbar-nav > .active > a:focus {
+	color: #4dd2ff;
+	background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+	color: white;
+}
+
+.navbar-default .navbar-toggle:hover {
+	background-color: #4dd2ff;
+}
+
+.navbar-default .navbar-toggle:focus {
+	background-color: #4dd2ff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
